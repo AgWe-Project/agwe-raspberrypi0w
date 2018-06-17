@@ -1,0 +1,3 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/AgWe-Project/agwe-common-device-web.git
