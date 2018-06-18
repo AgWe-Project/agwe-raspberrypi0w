@@ -1,7 +1,7 @@
 var ip = require('ip');
 //Import pi0w hardware interfaces
 var sensor = require('node-dht-sensor');
-var handler = require('/web/server.js');
+var handler = require('./web/server.js');
 
 //Start Socket.Import
 var app = require('http').createServer(handler)

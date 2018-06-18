@@ -19,6 +19,7 @@
   "license": "MIT",
   "readme": "umm",
   "dependencies": {
+    "agwe-common": "file:web",
     "ip": "^1.1.2",
     "socket.io": "^1.4.5",
     "node-dht-sensor": "0.0.34"
